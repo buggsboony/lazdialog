@@ -1,0 +1,8 @@
+object Form1: TForm1
+  Left = 750
+  Height = 188
+  Top = 283
+  Width = 226
+  Caption = 'LazDialog'
+  LCLVersion = '2.0.12.0'
+end
